@@ -24,8 +24,8 @@ return reagent.core.render.cljs$core$IFn$_invoke$arity$2(new cljs.core.Persisten
 wally.core.init = (function wally$core$init(){
 wally.routes.app_routes();
 
-var G__43158_43159 = new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword("wally.events","initialize-db","wally.events/initialize-db",-458236584)], null);
-(re_frame.core.dispatch_sync.cljs$core$IFn$_invoke$arity$1 ? re_frame.core.dispatch_sync.cljs$core$IFn$_invoke$arity$1(G__43158_43159) : re_frame.core.dispatch_sync.call(null,G__43158_43159));
+var G__49186_49187 = new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword("wally.events","initialize-db","wally.events/initialize-db",-458236584)], null);
+(re_frame.core.dispatch_sync.cljs$core$IFn$_invoke$arity$1 ? re_frame.core.dispatch_sync.cljs$core$IFn$_invoke$arity$1(G__49186_49187) : re_frame.core.dispatch_sync.call(null,G__49186_49187));
 
 wally.core.dev_setup();
 
